@@ -1,0 +1,7 @@
+// ALT – zeitbasierte Test-Regeln
+{
+  "rules": {
+    ".read": "now < 1830297600000",
+    ".write": "now < 1830297600000"
+  }
+}
